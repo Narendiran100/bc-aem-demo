@@ -214,5 +214,9 @@
         "valueType": "string"
       }
     ]
-  }
+  },
+  {
+  "id": "brandconcierge",
+  "fields": []
+}
 ]
