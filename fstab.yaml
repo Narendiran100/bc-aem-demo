@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p193657-e2013003.adobeaemcloud.com/bin/franklin.delivery/Narendiran100/bc-aem-demo/main"
+    url: "https://author-p193657-e2013003.adobeaemcloud.com/bin/franklin.delivery/narendiran100/bc-aem-demo/main"
     type: "markup"
     suffix: ".html"
